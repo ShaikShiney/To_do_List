@@ -1,16 +1,143 @@
-# React + Vite
+# 📝 Todo List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive **Todo List Application** built with **React.js** and **Vite**. This application allows users to manage their daily tasks efficiently by adding, completing, and deleting todos.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🔗 **Live Website:** https://to-do-list-shaikshiney.vercel.app/
 
-## React Compiler
+## 📂 GitHub Repository
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🔗 **GitHub:** https://github.com/ShaikShiney/To_do_List
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+* ➕ Add new tasks
+* ✅ Mark tasks as completed
+* 🗑️ Delete tasks
+* ⚡ Fast performance with Vite
+* 📱 Responsive design
+* 🎨 Clean and user-friendly interface
+
+---
+
+## 🛠️ Tech Stack
+
+* React.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Vite
+
+---
+
+## 📸 Screenshots
+
+> Add screenshots of your application here.
+
+Example:
+
+```
+screenshots/
+├── home.png
+├── add-task.png
+└── completed-task.png
+```
+
+---
+
+## 📦 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/ShaikShiney/To_do_List.git
+```
+
+Navigate to the project folder:
+
+```bash
+cd To_do_List
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Open your browser and visit:
+
+```
+http://localhost:5173
+```
+
+---
+
+## 📁 Project Structure
+
+```
+To_do_List/
+│── public/
+│── src/
+│   ├── assets/
+│   ├── App.jsx
+│   ├── App.css
+│   ├── main.jsx
+│   └── index.css
+│── index.html
+│── package.json
+│── vite.config.js
+│── README.md
+```
+
+---
+
+## 💡 How It Works
+
+1. Enter a task in the input field.
+2. Click the **Add** button.
+3. The task is added to the list.
+4. Mark tasks as completed when finished.
+5. Delete tasks that are no longer needed.
+
+---
+
+## 🎯 Future Improvements
+
+* ✏️ Edit existing tasks
+* 📅 Add due dates
+* 🔍 Search tasks
+* 🏷️ Filter by completed/pending
+* 💾 Save tasks using Local Storage
+* 🌙 Dark Mode
+* 📊 Task statistics
+
+---
+
+## 👨‍💻 Author
+
+**Shaik Shiney**
+
+* GitHub: https://github.com/ShaikShiney
+* Live Project: https://to-do-list-shaikshiney.vercel.app/
+
+---
+
+## ⭐ Support
+
+If you found this project helpful, please consider giving it a **⭐ Star** on GitHub.
+
+---
+
+## 📄 License
+
+This project is open source and available under the **MIT License**.
